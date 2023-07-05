@@ -1,0 +1,13 @@
+# class
+
+BlendixSerial	KEYWORD1
+
+
+# Methods and Functions 
+
+
+resetCoordinates	KEYWORD2
+setCoordinates	KEYWORD2
+setText	KEYWORD2
+getFormattedOutput	KEYWORD2
+

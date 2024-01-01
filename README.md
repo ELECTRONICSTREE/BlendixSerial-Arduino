@@ -59,7 +59,7 @@ To use the `BlendixSerial` library in your Arduino sketch, follow these steps:
 
 
 ### Additional Resources
-For more information and examples, you can visit the [BlendixSerial Arduino Control documentation](https://arduinomagix.blogspot.com/p/arduino-library-for-blendixserial-addon.html).
+For more information and examples, you can visit the [BlendixSerial Arduino Control documentation](https://electronicstree.com/arduino-library-for-blendixserial-addon/).
 
 
 ### `License`
